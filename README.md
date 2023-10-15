@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abdul-Rehman295
 - 👀 I’m interested in World New Technologies
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 😄 Pronouns: ... He/Him
+- 💞️ I’m looking to collaborate on ... Developing
 - 📫 How to reach me ...
 
 <!---
