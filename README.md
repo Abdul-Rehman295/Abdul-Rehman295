@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: ... He/Him
 - 💞️ I’m looking to collaborate on ... Developing
+- 💬 Ask me about ... Anything
 - 📫 How to reach me ...
 
 <!---
