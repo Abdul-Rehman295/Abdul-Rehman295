@@ -16,6 +16,7 @@ I'm also gradually expanding into modern web development with **JavaScript, Reac
 * 🔌 Custom WordPress Plugin Development
 * 🎨 Elementor & Elementor Pro
 * 🛠️ WPBakery
+* 🛠️ Divi
 * ⚙️ PHP & WordPress Development
 * 🐛 WordPress Bug Fixing & Troubleshooting
 * 🔐 WordPress Security & Malware Cleanup
@@ -30,15 +31,15 @@ I'm also gradually expanding into modern web development with **JavaScript, Reac
 
 ### WordPress
 
-`WordPress` `PHP` `Elementor` `Elementor Pro` `WPBakery` `WooCommerce` `ACF` `SCF`
+`WordPress` `PHP` `Elementor` `Elementor Pro` `WPBakery` `Divi` `WooCommerce` `ACF` `SCF`
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `React` `Next.js`
+`HTML` `CSS` `JavaScript` `React` 
 
 ### Backend & Database
 
-`PHP` `Node.js` `Express.js` `MySQL` `PostgreSQL` `Prisma`
+`PHP` `Node.js` `Express.js` `MySQL` `PostgreSQL` 
 
 ### Tools & Platforms
 
@@ -65,13 +66,13 @@ My goal is to combine my WordPress experience with modern web technologies to bu
 ## 🔨 Current Focus
 
 ```text
-WordPress Development     ████████████████████  Primary
-PHP & Custom Plugins      ██████████████████░░  Strong
-Elementor / WPBakery      ████████████████████  Primary
-JavaScript                ██████████████░░░░░░  Growing
-React                     ███████████░░░░░░░░░  Growing
-Next.js                   █████████░░░░░░░░░░░  Learning
-Node.js                   █████████░░░░░░░░░░░  Learning
+WordPress Development            ████████████████████  Primary
+PHP & Custom Plugins             ██████████████████░░  Strong
+Elementor / WPBakery / Divi      ████████████████████  Primary
+JavaScript                       ██████████████░░░░░░  Growing
+React                            ███████████░░░░░░░░░  Growing
+Next.js                          █████████░░░░░░░░░░░  Learning
+Node.js                          █████████░░░░░░░░░░░  Learning
 ```
 
 ---
