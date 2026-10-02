@@ -94,6 +94,9 @@ Here are some of the projects I'm working on and exploring:
 
 💻 GitHub: [Abdul-Rehman295](https://github.com/Abdul-Rehman295)
 
+💼 LinkedIn: [abdulrehman295](https://www.linkedin.com/in/abdulrehman295/)
+
+
 ---
 
 ### 💡 Always Building. Always Learning.
